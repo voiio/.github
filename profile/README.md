@@ -57,19 +57,12 @@ You can find how we work and what methods we use [right here](product_developmen
 
 ## Team
 
-### Who does what?
-
-We maintain a list of what [topics individual people own](ownership.md) and are extra proud of.
-
-You may also find a full list of [our team here](https://github.com/orgs/voiio/people).
+You can find [our team here](https://github.com/orgs/voiio/people).
 
 ### Join Us!
 
 We are excited that you are interested in joining [our team](https://github.com/orgs/voiio/people).
 You can find all information about our application process in [application guide](apply.md).
-
-Once you join us, our [onboarding guide](onboarding.md) will help you
-get ready for your first day, week and month.
 
 ### Team Structure and Workflows
 
@@ -160,11 +153,6 @@ You can find our full tech stack on [stackshare.io/voiio](https://stackshare.io/
 
 We use [dependabot](https://dependabot.com/) to keep all our Python and NodeJS
 dependencies up to date on a daily basis.
-
-AI hype did not pass us by. We are passionate about new discoveries in this field and
-are always looking for ways to improve our services with it.
-There is even a small collection of [prompts for LLMs](prompts.md)
-that we are using internally.
 
 ### DevOps and QA
 
