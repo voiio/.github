@@ -5,7 +5,7 @@ type: bug
 labels:
   - bug
 assignees:
-  - voiio/engineering
+  - herrbenesch
 body:
 
   - type: markdown
